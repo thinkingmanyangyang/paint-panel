@@ -1,1 +1,2 @@
-This is a java aint panel demo.
+This is a java paint panel demo.
+
